@@ -1,18 +1,21 @@
 # Homely - Your Own Food Shop
-TaskHarbor is a robust freelance marketplace platform designed to connect freelancers with clients seeking various services. Built using modern web technologies, including React.JS for the frontend, Node.JS and Express.JS for the backend, and MongoDB as the database, TaskHarbor offers a seamless and efficient environment for freelancers and clients to collaborate.
+This is the online food ordering web application made using React.JS and CSS for frontend development and Context API for state management of my web application. This is my personal project aimed to showcase my fullstack development skills.
 
 ## Owner Information
 
-### Name :
+### Name :  
+Nilakshi Neel
 
-### College :
-
-IIT(ISM) Dhanbad, India
-
-### Contact :
+### College :  
+IIT (ISM) Dhanbad, India
 
 
-### Alternate Contact :
+### Contact :  
+iamnilakshi7925@gmail.com
+
+
+### Alternate Contact :  
+21je0604@iitism.ac.in
 
 
 ### Project Category :

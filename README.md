@@ -5,19 +5,15 @@ TaskHarbor is a robust freelance marketplace platform designed to connect freela
 
 ### Name :
 
-Aman Bhardwaj
-
 ### College :
 
 IIT(ISM) Dhanbad, India
 
 ### Contact :
 
-amanbhardwaj12072003@gmail.com
 
 ### Alternate Contact :
 
-21je0081@iitism.ac.in
 
 ### Project Category :
 
